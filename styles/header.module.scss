@@ -1,0 +1,20 @@
+.header {
+     position: fixed;
+     width: 100vw;
+     color: #ffffff;
+     background: hsla(0, 0%, 100%, 0);
+     font-family: 'Knewave', cursive;
+     letter-spacing: 5px;
+     display: flex;
+     justify-content: space-between;
+     padding: 10px 50px;
+     h1 {
+          font-size: 25px;
+          font-weight: 200;
+     }
+     .headerIcons {
+          img {
+               height: 30px;
+          }
+     }
+}
